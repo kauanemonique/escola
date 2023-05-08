@@ -1,0 +1,12 @@
+.cabecalho {
+    background-color: rgba(79, 184, 216, 0.333);
+    color: white;
+    display:flex;
+    justify-content: space-aroud;
+}
+.cabecalho-imagem{
+    width: 20%;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+}
