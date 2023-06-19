@@ -3,6 +3,7 @@
     color: rgb(167, 130, 235);
     display:flex;
     justify-content: space-around;
+    align-items: center;
     padding: 24px 0;
 }
 .cabecalho-imagem{
@@ -36,3 +37,12 @@
 .escola-titulo {
     padding: 24px 0;
 }
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+.rodape-imagem{
+    height: 60px;
+    padding: 12px;
+}
+
